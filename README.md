@@ -5,10 +5,11 @@ A progressive web application where a user can create notes and code snippets, w
 
 ## Screenshot
 <p align = "center">
-<img src = ''>
+<img src = './images/Screenshot 2023-08-15 214032.png'>
 </p>
 
 ## Link
+You can visit the deployed site [here](https://glacial-mountain-21368-c9b56f551d2f.herokuapp.com/)!
 
 ## Installation 
 * Clone the github repo using `git clone` 
